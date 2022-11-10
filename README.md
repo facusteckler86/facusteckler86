@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @facusteckler86
-- 👀 I’m interested in books, travels, family and computer too
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on sistem and cibersecurity
-- 📫 How to reach me to my mail facundomsteckler@gmail.com
+Hola, mi nombre es Facundo Steckler, este 2022 inicie mi proposito de mejorar profesionalmente e inicie programacion, manejo los lenguajes Java, Python, HTML, CSS, JavaScript y Angular. (Este ultimo en proceso de la mano de CoderHouse).
+Trato de compartir los mismos casos con los que me inicie para ayuda a tod@s, como me han ayudado a mi.
 
 <!---
 facusteckler86/facusteckler86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
