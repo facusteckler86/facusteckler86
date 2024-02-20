@@ -1,6 +1,8 @@
 # 💫 About Me:
 /Hola, mi nombre es Facundo Steckler, este 2022 inicie mi proposito de mejorar profesionalmente e inicie programacion, manejo los lenguajes Java (nivel inicial), Python (inicial tambien), HTML, CSS, JavaScript y Angular. (Este ultimo en proceso de la mano de CoderHouse). Trato de compartir los mismos casos con los que me inicie para ayuda a tod@s, como me han ayudado a mi./<br><br>/Hi, my name`s Facundo Steckler. This 2022 I started my purpose of improving professionally and starting programming, I handle the languages Java (initial level), Python (initial too), HTML, CSS, JavaScript and Angular. (The latter in process by CoderHouse). I try to share the same cases with which I started to help everyone, as they have helped me./
 
+[My DevCard](url)
+<a href="https://app.daily.dev/facundomsteckler"><img src="https://api.daily.dev/devcards/v2/nkXmJ1IMHtuC7l8l9oEfk.png?type=default&r=fzm" width="356" alt="Facundo M Steckler's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/facundosteckler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/facundomsteckler/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/317291/facundo-m-steckler) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/facusteckler) 
