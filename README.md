@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi nombre es Facundo Steckler, <br>desde el 2022 soy Desarrollador Web, <br>Full-stack en construcción.<br>De Mendoza, Argentina
+Mi nombre es Facundo Steckler, <br>Desde el 2022 soy Desarrollador Web, <br>Full-stack en construcción.<br>De Mendoza, Argentina
 
 
 ## 🌐 Socials:
